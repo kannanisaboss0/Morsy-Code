@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "grammarnary-version0.0.2",
+    "slug": "snack-eeaff797-e486-4af7-baf2-4267300333f5",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
